@@ -1,0 +1,6 @@
+{
+  "name": "BetMaster Pro - Jogo de Apostas Mobile & Painel Admin",
+  "description": "Plataforma de apostas online com Aviador Crash 3D, Roleta Double, Campo Minado, Firewall Super Blindado, autenticação MFA para administrador e suporte PWA multiplataforma (M-Pesa, E-Mola, M-Kesh).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

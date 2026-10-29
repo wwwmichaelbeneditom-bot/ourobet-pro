@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#05070d"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fef08a"/>
+      <stop offset="50%" stop-color="#eab308"/>
+      <stop offset="100%" stop-color="#ca8a04"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="128" fill="url(#bg)"/>
+  <circle cx="256" cy="256" r="210" stroke="url(#gold)" stroke-width="8" fill="none" opacity="0.3"/>
+  <!-- Crown Icon -->
+  <path d="M112 360 L140 180 L210 270 L256 140 L302 270 L372 180 L400 360 Z" fill="url(#gold)"/>
+  <!-- Crown Base Bar -->
+  <rect x="112" y="375" width="288" height="30" rx="8" fill="url(#gold)"/>
+  <circle cx="140" cy="180" r="14" fill="#fef08a"/>
+  <circle cx="256" cy="140" r="18" fill="#fef08a"/>
+  <circle cx="372" cy="180" r="14" fill="#fef08a"/>
+</svg>

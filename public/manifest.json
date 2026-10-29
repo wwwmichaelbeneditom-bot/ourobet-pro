@@ -1,0 +1,21 @@
+{
+  "id": "/",
+  "name": "OUROBET PRO - Cassino Online & Apostas Moçambique",
+  "short_name": "OUROBET PRO",
+  "description": "Plataforma oficial de apostas com Aviador Crash 3D, Roleta Double, Campo Minado e pagamentos M-Pesa, E-Mola e M-Kesh.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#05070d",
+  "theme_color": "#05070d",
+  "categories": ["entertainment", "games", "finance"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
